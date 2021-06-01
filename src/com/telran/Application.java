@@ -6,6 +6,11 @@ public class Application {
         System.out.println("Hello Alla!!!");
         System.out.println("Alla");
         System.out.println("Alla");
-        System.out.println("David);
+        System.out.println("David");
+        System.out.println("Alla");
+        System.out.println("Alla");
+        System.out.println("David");
+        System.out.println("end");
+
     }
 }
